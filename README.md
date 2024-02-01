@@ -110,7 +110,10 @@ let foo: Foo = serde_json::from_str(r#"{"angle": "180deg"}"#).unwrap();
 assert_eq!(foo.angle, PI);
 ```
 
+It requires the optional `serde` feature.
+
 ## Changelog
 
+* `v0.1.2` made serde feature optional
 * `v0.1.1` readme added
 * `v0.1.0` initial release

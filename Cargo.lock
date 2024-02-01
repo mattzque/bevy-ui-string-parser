@@ -1001,7 +1001,7 @@ dependencies = [
 
 [[package]]
 name = "bevy_ui_string_parser"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "bevy",
  "lazy_static",
