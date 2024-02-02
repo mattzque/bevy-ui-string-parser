@@ -1,7 +1,7 @@
 # Bevy-UI String Parser Utilities
 
 ![License](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
-[![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy_ui_string_parser)
+[![Crates.io](https://img.shields.io/crates/v/bevy_ui_string_parser.svg)](https://crates.io/crates/bevy_ui_string_parser)
 [![Docs](https://docs.rs/bevy/badge.svg)](https://docs.rs/bevy_ui_string_parser/latest/bevy_ui_string_parser/)
 
 This rust crate provides a set of parsing functions that can be used to
